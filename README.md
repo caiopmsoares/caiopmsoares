@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend Developer based in Brazil<br>Currently working at Globo<br>Improving NextJS skills<br>
+Developer based in Brazil<br>Currently working at Globo<br>Improving NextJS skills<br>
 
 
 ## 🌐 Socials:
